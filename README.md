@@ -3,7 +3,7 @@ Mieux qu’une documentation, un livre blanc ou un webinaire, venez simplement m
 
 [Réservation Viya Trial](https://www.sas.com/fr_fr/trials/software/viya/viya-trial-form.html)
 
-[Accès Trial](https://engage.my-trials.sas.com/onboard/return/XXXXXX)
+[Accès Viya Trial](https://engage.my-trials.sas.com/onboard/return/XXXXXX)
 
 [Questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=XE3BsSU2s0WkMJVSNzoML7xb9kiO-RZHjfeO7_4YlBNURExJMFpTWFZOVVhUNkRNVUNDTjlQMlVQTy4u)
 
